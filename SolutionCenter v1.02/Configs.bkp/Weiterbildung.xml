@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Weiterbildung</Name>
+  <ID>3</ID>
+  <ConfigType>global</ConfigType>
+  <ForUsersVisible />
+  <HintergrundFarbe>#DDDDDD</HintergrundFarbe>
+  <ToolConfigs>
+    <ToolConfig>
+      <ID>1</ID>
+      <Name>Microsoft Virtual Acadamy</Name>
+      <Aufruf>http://www.microsoftvirtualacademy.com/</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo>#C0C0C0</RahmenfarbeInfo>
+      <HoverFarbeInfo>#000099</HoverFarbeInfo>
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>2</ID>
+      <Name>Microsoft Technet</Name>
+      <Aufruf>https://technet.microsoft.com/de-de/</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo>#C0C0C0</RahmenfarbeInfo>
+      <HoverFarbeInfo>#000099</HoverFarbeInfo>
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>3</ID>
+      <Name>Blog ntdebugging</Name>
+      <Aufruf>http://blogs.msdn.com/b/ntdebugging/</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>4</ID>
+      <Name>Blog debugging toolbox</Name>
+      <Aufruf>http://blogs.msdn.com/b/debuggingtoolbox/</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+  </ToolConfigs>
+</Config>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Nützlich</Name>
+  <ID>1</ID>
+  <ConfigType>global</ConfigType>
+  <ForUsersVisible />
+  <HintergrundFarbe>#DDDDDD</HintergrundFarbe>
+  <ToolConfigs>
+    <ToolConfig>
+      <ID>1</ID>
+      <Name>CBS.log Zielrechner</Name>
+      <Aufruf>\\%Zwischenspeicher%\c$\Windows\Logs\CBS\</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo>#C0C0C0</RahmenfarbeInfo>
+      <HoverFarbeInfo>#000099</HoverFarbeInfo>
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>2</ID>
+      <Name>D:\Public\ Zielrechner</Name>
+      <Aufruf>\\%Zwischenspeicher%\d$\Public\</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo>#C0C0C0</RahmenfarbeInfo>
+      <HoverFarbeInfo>#000099</HoverFarbeInfo>
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+  </ToolConfigs>
+</Config>
