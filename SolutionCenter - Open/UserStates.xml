@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UserStateList>
+    <UserStateValue>
+      <ADName>DADASNEV-HOME\pSyKo</ADName>
+      <LoggedOnView>false</LoggedOnView>
+      <LoggedOnConfig>false</LoggedOnConfig>
+    </UserStateValue>
+  </UserStateList>
+</UserState>

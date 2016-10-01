@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Weiterbildung</Name>
+  <ID>2</ID>
+  <ConfigType>global</ConfigType>
+  <ForUsersVisible />
+  <HintergrundFarbe>#DDDDDD</HintergrundFarbe>
+  <ToolConfigs>
+    <ToolConfig>
+      <ID>2</ID>
+      <Name>Microsoft Virtual Acadamy</Name>
+      <Aufruf>http://www.microsoftvirtualacademy.com/</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>4</ID>
+      <Name>Microsoft Technet</Name>
+      <Aufruf>https://technet.microsoft.com/de-de/</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>9</ID>
+      <Name>ITIL</Name>
+      <Aufruf>https://www.mitsm.de/itil</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>3</ID>
+      <Name>Microsoft Virtual Labs</Name>
+      <Aufruf>http://technet.microsoft.com/de-DE/virtuallabs</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>5</ID>
+      <Name>Microsoft Technet Foren</Name>
+      <Aufruf>https://social.technet.microsoft.com/Forums/de-DE/home?filter=alltypes&amp;sort=lastpostdesc</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>6</ID>
+      <Name>Microsoft Technet Forums</Name>
+      <Aufruf>https://social.technet.microsoft.com/Forums/windowsserver/en-US/home?filter=alltypes&amp;sort=lastpostdesc</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>7</ID>
+      <Name>Microsoft Learning</Name>
+      <Aufruf>https://www.microsoft.com/de-de/learning/</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>8</ID>
+      <Name>Microsoft Zertifikate</Name>
+      <Aufruf>https://www.microsoft.com/de-de/learning/certification-overview.aspx</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>1</ID>
+      <Name>Microsoft Techwiese</Name>
+      <Aufruf>https://www.microsoft.com/germany/techwiese/default.aspx</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+  </ToolConfigs>
+</Config>

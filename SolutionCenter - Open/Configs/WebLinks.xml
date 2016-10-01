@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>Weiterbildung</Name>
+  <Name>WebLinks</Name>
   <ID>3</ID>
   <ConfigType>global</ConfigType>
   <ForUsersVisible />
@@ -8,8 +8,8 @@
   <ToolConfigs>
     <ToolConfig>
       <ID>1</ID>
-      <Name>Microsoft Virtual Acadamy</Name>
-      <Aufruf>http://www.microsoftvirtualacademy.com/</Aufruf>
+      <Name>Infos aktuelle Security Updates</Name>
+      <Aufruf>https://technet.microsoft.com/security/bulletin/</Aufruf>
       <AufrufInfo />
       <TooltipVisible>false</TooltipVisible>
       <Hoehe>65</Hoehe>
@@ -20,8 +20,8 @@
       <HoverFarbe>#000099</HoverFarbe>
       <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
       <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
-      <RahmenfarbeInfo>#C0C0C0</RahmenfarbeInfo>
-      <HoverFarbeInfo>#000099</HoverFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
       <DokuButtonSichtbar>false</DokuButtonSichtbar>
       <NameInfo>Info</NameInfo>
       <HoeheInfo>28</HoeheInfo>
@@ -29,8 +29,8 @@
     </ToolConfig>
     <ToolConfig>
       <ID>2</ID>
-      <Name>Microsoft Technet</Name>
-      <Aufruf>https://technet.microsoft.com/de-de/</Aufruf>
+      <Name>Microsoft Error Codes</Name>
+      <Aufruf>https://msdn.microsoft.com/en-us/library/windows/desktop/ms681381%28v=vs.85%29.aspx</Aufruf>
       <AufrufInfo />
       <TooltipVisible>false</TooltipVisible>
       <Hoehe>65</Hoehe>
@@ -41,8 +41,8 @@
       <HoverFarbe>#000099</HoverFarbe>
       <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
       <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
-      <RahmenfarbeInfo>#C0C0C0</RahmenfarbeInfo>
-      <HoverFarbeInfo>#000099</HoverFarbeInfo>
+      <RahmenfarbeInfo />
+      <HoverFarbeInfo />
       <DokuButtonSichtbar>false</DokuButtonSichtbar>
       <NameInfo>Info</NameInfo>
       <HoeheInfo>28</HoeheInfo>
@@ -50,8 +50,8 @@
     </ToolConfig>
     <ToolConfig>
       <ID>3</ID>
-      <Name>Blog ntdebugging</Name>
-      <Aufruf>http://blogs.msdn.com/b/ntdebugging/</Aufruf>
+      <Name>Google</Name>
+      <Aufruf>http:\\www.google.de</Aufruf>
       <AufrufInfo />
       <TooltipVisible>false</TooltipVisible>
       <Hoehe>65</Hoehe>
@@ -71,8 +71,8 @@
     </ToolConfig>
     <ToolConfig>
       <ID>4</ID>
-      <Name>Blog debugging toolbox</Name>
-      <Aufruf>http://blogs.msdn.com/b/debuggingtoolbox/</Aufruf>
+      <Name>Powershell Sharepoint CmdBuilder</Name>
+      <Aufruf>https://www.microsoft.com/resources/technet/en-us/office/media/windowspowershell/windowspowershellcommandbuilder.html</Aufruf>
       <AufrufInfo />
       <TooltipVisible>false</TooltipVisible>
       <Hoehe>65</Hoehe>
@@ -85,6 +85,25 @@
       <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
       <RahmenfarbeInfo />
       <HoverFarbeInfo />
+      <DokuButtonSichtbar>false</DokuButtonSichtbar>
+      <NameInfo>Info</NameInfo>
+      <HoeheInfo>28</HoeheInfo>
+      <BreiteInfo>100</BreiteInfo>
+    </ToolConfig>
+    <ToolConfig>
+      <ID>5</ID>
+      <Name>ScriptCenter</Name>
+      <Aufruf>https://gallery.technet.microsoft.com/ScriptCenter/</Aufruf>
+      <AufrufInfo />
+      <TooltipVisible>false</TooltipVisible>
+      <Hoehe>65</Hoehe>
+      <Breite>100</Breite>
+      <HintergrundFarbe>#000066</HintergrundFarbe>
+      <SchriftFarbe>#FFFFFF</SchriftFarbe>
+      <Rahmenfarbe>#C0C0C0</Rahmenfarbe>
+      <HoverFarbe>#000099</HoverFarbe>
+      <HintergrundFarbeInfo>#000066</HintergrundFarbeInfo>
+      <SchriftFarbeInfo>#FFFFFF</SchriftFarbeInfo>
       <DokuButtonSichtbar>false</DokuButtonSichtbar>
       <NameInfo>Info</NameInfo>
       <HoeheInfo>28</HoeheInfo>
